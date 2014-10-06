@@ -1,4 +1,5 @@
 # CastorJS the Document Management System
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/castorjs/castor-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Coming soon...
 
